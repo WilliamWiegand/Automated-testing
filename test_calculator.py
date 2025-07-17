@@ -6,5 +6,5 @@ def test_add_pass():
     assert result == 14
 
 def test_add_fail():
-    result = add(4, 10)
+    result = add(4, 10) 
     assert result == 15 
